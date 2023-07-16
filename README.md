@@ -1,7 +1,5 @@
-![Logo](https://situla.bitbit.net/filebin/c33101f87799108d75f09f5b5191ab04c1e165a86b214203333fb56a3e58fee7/49f1f4aad6b608eae789c894171cf3fc0e71381762043bf7bcd057ef3b0037c6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=HZXB1J7T0UN34UN512IW%2F20230716%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230716T211054Z&X-Amz-Expires=30&X-Amz-SignedHeaders=host&response-cache-control=max-age%3D30&response-content-disposition=filename%3D%22cooltext439520033870507.gif%22&response-content-type=image%2Fgif&X-Amz-Signature=71bfb4d283b7ac3b6ce17f80164eaf2363283628ffbceabead3e04b0e4cffa34)
-
-<h1 align="center">Hi 👋, I'm Reda Doukali</h1>
-<h1><img src="https://situla.bitbit.net/filebin/c33101f87799108d75f09f5b5191ab04c1e165a86b214203333fb56a3e58fee7/49f1f4aad6b608eae789c894171cf3fc0e71381762043bf7bcd057ef3b0037c6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=HZXB1J7T0UN34UN512IW%2F20230716%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230716T211054Z&X-Amz-Expires=30&X-Amz-SignedHeaders=host&response-cache-control=max-age%3D30&response-content-disposition=filename%3D%22cooltext439520033870507.gif%22&response-content-type=image%2Fgif&X-Amz-Signature=71bfb4d283b7ac3b6ce17f80164eaf2363283628ffbceabead3e04b0e4cffa34" alt="Logo"></h1>
+<h1 align="center">Hi 👋, I'm Reda Doukali
+<img src="https://situla.bitbit.net/filebin/c33101f87799108d75f09f5b5191ab04c1e165a86b214203333fb56a3e58fee7/49f1f4aad6b608eae789c894171cf3fc0e71381762043bf7bcd057ef3b0037c6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=HZXB1J7T0UN34UN512IW%2F20230716%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230716T211054Z&X-Amz-Expires=30&X-Amz-SignedHeaders=host&response-cache-control=max-age%3D30&response-content-disposition=filename%3D%22cooltext439520033870507.gif%22&response-content-type=image%2Fgif&X-Amz-Signature=71bfb4d283b7ac3b6ce17f80164eaf2363283628ffbceabead3e04b0e4cffa34" alt="Logo"></h1>
 
 <h3 align="center">A passionate software developer from Morocco</h3>
 
